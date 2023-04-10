@@ -1,2 +1,2 @@
 # GitTutorial
-Study
+Ivan Zhenin // Study
